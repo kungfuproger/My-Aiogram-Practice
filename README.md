@@ -1,0 +1,1 @@
+This is my training on how to create Telegram bots. Using the Aiogram library.
